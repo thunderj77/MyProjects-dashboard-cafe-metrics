@@ -1,4 +1,4 @@
-# 📊 Аналитический дашборд: ключетые метрики сервиса доставки «Всё.из.кафе» (Саранск)
+# 📊 Аналитический дашборд: ключевые метрики сервиса доставки «Всё.из.кафе» (Саранск)
 
 [![DataLens](https://img.shields.io/badge/Powered%20by-Yandex%20DataLens-blue)](https://datalens.yandex)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
